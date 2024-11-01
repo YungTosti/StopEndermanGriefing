@@ -1,0 +1,6 @@
+name: StopEndermanGriefing
+version: 1.0
+main: ai.haslux.stopendermangriefing.StopEndermanGriefing
+description: Stop enderman from griefing!
+author: YungTosti
+api-versio: '1.21.1'
